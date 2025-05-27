@@ -1,0 +1,6 @@
+{
+  "name": "telegram-bot-netlify",
+  "version": "1.0.0",
+  "main": "functions/telegram.js",
+  "dependencies": {}
+}
